@@ -3,7 +3,7 @@
 Tracks your daily attendance. 
 
 ## Functions
-- Maintains a text file with the number of days you were ***present***, ***absent***, and your ***attendance percentage*** respectively.
+- Maintains a text file with the number of days you were ***present***, ***total days***, and your ***attendance percentage*** respectively.
 
 ### Learnings
 - Reading and updating a text file through Python, termed as ***File Handling***.
